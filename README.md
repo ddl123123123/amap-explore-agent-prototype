@@ -1,2 +1,7 @@
-# amap-explore-agent-prototype
-高德探索 × Agent 辅助决策交互原型（Mock 数据）
+# 高德探索 Agent 交互原型
+
+这是作品集中的交互演示。页面上的地点、价格、路线、天气和用户足迹均为 Mock 数据。
+
+在线体验：https://ddl123123123.github.io/amap-explore-agent-prototype/
+
+「探索」保留「推荐 / 附近」双 Tab。推荐页以情境主题卡作为内容索引，切换后同步更新 Top 榜单、双列图文笔记与地图留言预览；榜单和笔记可进入地点详情。两处共用同一地图足迹层，Agent 只在榜单解释、比较、路线和异常变化时提供可忽略的辅助。
